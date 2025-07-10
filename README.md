@@ -45,10 +45,11 @@
 
 Hi! I'm <b style="color:#4F8EF7;">Abie Haryatmo</b>, a <span style="color:#FBBC05;">professional programmer</span> with a passion for technology, automation, and code craftsmanship.
 
-- 💻 <b style="color:#4285F4;">Writes</b> scalable & maintainable code.
-- 🌈 <b style="color:#EA4335;">Loves</b> color in code and life.
-- 🛠️ <b style="color:#34A853;">DevOps, scripting, and backend</b> enthusiast.
-- 🚀 <b style="color:#FF7043;">Always learning</b> and sharing.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" style="vertical-align:middle;margin-right:6px;" title="C++"/> <b style="color:#4285F4;">Writes</b> scalable & maintainable code
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" style="vertical-align:middle;margin-right:6px;" title="Python"/> <b style="color:#EA4335;">Enjoys</b> solving problems with clean code
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20" style="vertical-align:middle;margin-right:6px;" title="Docker"/> <b style="color:#34A853;">DevOps & Automation</b> enthusiast
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20" style="vertical-align:middle;margin-right:6px;" title="Linux"/> <b style="color:#FF7043;">Loves Linux and Open Source</b>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="20" style="vertical-align:middle;margin-right:6px;" title="GitHub"/> <b style="color:#FBBC05;">Always learning & sharing</b>
 
 ---
 
@@ -67,26 +68,6 @@ Hi! I'm <b style="color:#4F8EF7;">Abie Haryatmo</b>, a <span style="color:#FBBC0
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30"/>
-</p>
-
----
-
-## <span style="color:#EA4335;">🎯 Featured Projects</span>
-
-- <b style="color:#34A853;">Auto Cool Level Generator</b>: Automate level creation with Telegram notifications & custom banners.
-- <b style="color:#FBBC05;">Kodeku</b>: Curated collection of daily programming snippets and solutions.
-- <b style="color:#4285F4;">Workflow Wizard</b>: Professional GitHub Actions templates for your everyday DevOps needs.
-
----
-
-## <span style="color:#FBBC05;">📬 Let's Connect</span>
-
-<p>
-  <b>Email:</b> <a href="mailto:abieharyatmo01@gmail.com" style="color:#EA4335;">abieharyatmo01@gmail.com</a><br>
-  <b>GitHub:</b> <a href="https://github.com/0x00abieharyatmo" style="color:#181717;">@0x00abieharyatmo</a><br>
-  <b>Instagram:</b> <a href="https://instagram.com/abie_haryatmo" style="color:#C13584;">@abie_haryatmo</a><br>
-  <b>Facebook:</b> <a href="https://facebook.com/abieharyatmo" style="color:#1877F3;">Abie Haryatmo</a><br>
-  <b>TikTok:</b> <a href="https://www.tiktok.com/@bee.hry" style="background: linear-gradient(90deg,#25F4EE 0%,#FE2C55 100%);-webkit-background-clip:text;color:transparent;">@bee.hry</a>
 </p>
 
 ---
